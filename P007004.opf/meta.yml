@@ -3,5 +3,92 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W23693
   title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ ༼སྐུ་འབུམ་པར་མ༽
-  volume: ''
+  volume:
+    9d8a0f48ff1c40de81102763f70aab22:
+      image_group_id: I0692
+      title: ''
+      volume_number: 1
+      total_pages: 810
+    e720ff435ef44c149c2e481d70a863a2:
+      image_group_id: I0693
+      title: ''
+      volume_number: 2
+      total_pages: 826
+    228487551d704b9795fc1128f81fccf3:
+      image_group_id: I0694
+      title: ''
+      volume_number: 3
+      total_pages: 700
+    d8439e673303479b9b3a0dcda4b0e45f:
+      image_group_id: I0695
+      title: ''
+      volume_number: 4
+      total_pages: 688
+    17a1b1aecece48bd82449ac09898bbb9:
+      image_group_id: I0696
+      title: ''
+      volume_number: 5
+      total_pages: 716
+    43998672ad994795b3bc2bfb471c7bda:
+      image_group_id: I0697
+      title: ''
+      volume_number: 6
+      total_pages: 754
+    e168b6a8c6bf45ee9abb5d41f95b0cba:
+      image_group_id: I0698
+      title: ''
+      volume_number: 7
+      total_pages: 810
+    ee58b6b8f7894210a821f88f9b348a3b:
+      image_group_id: I0699
+      title: ''
+      volume_number: 8
+      total_pages: 812
+    9a4cd6619e8a4d0eb94768986ddafe6c:
+      image_group_id: I0700
+      title: ''
+      volume_number: 9
+      total_pages: 692
+    e33f86a04d8b46cf89592b00129387ef:
+      image_group_id: I0701
+      title: ''
+      volume_number: 10
+      total_pages: 832
+    0f7902dcfa854e3db49cd8d2ded46352:
+      image_group_id: I0702
+      title: ''
+      volume_number: 11
+      total_pages: 776
+    cf19f6785e104f22849cca6922c0fa35:
+      image_group_id: I0703
+      title: ''
+      volume_number: 12
+      total_pages: 696
+    fec7c5bc86754bd7bc1fca6b35462615:
+      image_group_id: I0704
+      title: ''
+      volume_number: 13
+      total_pages: 800
+    e3c77d1c4aed4db8a761ef6900d33156:
+      image_group_id: I0705
+      title: ''
+      volume_number: 14
+      total_pages: 766
+    b50c274324d641b88b7e00357a5d5e1d:
+      image_group_id: I0706
+      title: ''
+      volume_number: 15
+      total_pages: 790
+    a89adbdbda23495cbc6e9f591e8302e5:
+      image_group_id: I0707
+      title: ''
+      volume_number: 16
+      total_pages: 712
   author: ''
+ebook_metadata:
+  title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ ༼སྐུ་འབུམ་པར་མ༽
+  author: ''
+  sku: P007004
+  cover: cover.jpg
+  layers:
+  - pagination
