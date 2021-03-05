@@ -1,9 +1,10 @@
-id: opecha:P007004
+id: P007004
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W23693
   title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ ༼སྐུ་འབུམ་པར་མ༽
-  volume:
+  author: ''
+  volumes:
     9d8a0f48ff1c40de81102763f70aab22:
       image_group_id: I0692
       title: ''
@@ -84,7 +85,6 @@ source_metadata:
       title: ''
       volume_number: 16
       total_pages: 712
-  author: ''
 ebook_metadata:
   title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ ༼སྐུ་འབུམ་པར་མ༽
   author: ''
