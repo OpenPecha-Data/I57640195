@@ -1,0 +1,117 @@
+id: I57640195
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-29T18:47:54+00:00'
+last_modified: '2022-06-08T11:52:40.796488+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W23693
+  title: གསུང་འབུམ། མཁས་གྲུབ་རྗེ ༼སྐུ་འབུམ་པར་མ༽
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: true
+  base:
+    78E8:
+      image_group_id: I0692
+      title: ''
+      total_pages: 810
+      order: 1
+      base_file: 78E8.txt
+    B760:
+      image_group_id: I0693
+      title: ''
+      total_pages: 826
+      order: 2
+      base_file: B760.txt
+    576E:
+      image_group_id: I0694
+      title: ''
+      total_pages: 700
+      order: 3
+      base_file: 576E.txt
+    '0674':
+      image_group_id: I0695
+      title: ''
+      total_pages: 688
+      order: 4
+      base_file: 0674.txt
+    F408:
+      image_group_id: I0696
+      title: ''
+      total_pages: 716
+      order: 5
+      base_file: F408.txt
+    14BF:
+      image_group_id: I0697
+      title: ''
+      total_pages: 754
+      order: 6
+      base_file: 14BF.txt
+    451F:
+      image_group_id: I0698
+      title: ''
+      total_pages: 810
+      order: 7
+      base_file: 451F.txt
+    01E2:
+      image_group_id: I0699
+      title: ''
+      total_pages: 812
+      order: 8
+      base_file: 01E2.txt
+    A885:
+      image_group_id: I0700
+      title: ''
+      total_pages: 692
+      order: 9
+      base_file: A885.txt
+    F34A:
+      image_group_id: I0701
+      title: ''
+      total_pages: 832
+      order: 10
+      base_file: F34A.txt
+    80DE:
+      image_group_id: I0702
+      title: ''
+      total_pages: 776
+      order: 11
+      base_file: 80DE.txt
+    '0537':
+      image_group_id: I0703
+      title: ''
+      total_pages: 696
+      order: 12
+      base_file: 0537.txt
+    FA7B:
+      image_group_id: I0704
+      title: ''
+      total_pages: 800
+      order: 13
+      base_file: FA7B.txt
+    345D:
+      image_group_id: I0705
+      title: ''
+      total_pages: 766
+      order: 14
+      base_file: 345D.txt
+    BDA3:
+      image_group_id: I0706
+      title: ''
+      total_pages: 790
+      order: 15
+      base_file: BDA3.txt
+    80BB:
+      image_group_id: I0707
+      title: ''
+      total_pages: 712
+      order: 16
+      base_file: 80BB.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
